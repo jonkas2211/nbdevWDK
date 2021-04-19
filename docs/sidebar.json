@@ -1,6 +1,8 @@
 {
   "wdkbsp": {
     "Overview": "/",
-    "wdkbsp": "core.html"
+    "Einleitung": "Examples.html",
+    "klauswert": "CodeExample.html",
+    "Beispielhafte Modulverwendung": "klauswertTests.html"
   }
 }

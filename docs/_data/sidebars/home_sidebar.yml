@@ -10,8 +10,14 @@ entries:
       title: Overview
       url: /
     - output: web,pdf
-      title: wdkbsp
-      url: core.html
+      title: Einleitung
+      url: Examples.html
+    - output: web,pdf
+      title: klauswert
+      url: CodeExample.html
+    - output: web,pdf
+      title: Beispielhafte Modulverwendung
+      url: klauswertTests.html
     output: web
     title: wdkbsp
   output: web
